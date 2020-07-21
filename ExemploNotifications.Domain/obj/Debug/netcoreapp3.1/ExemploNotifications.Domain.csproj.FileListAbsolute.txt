@@ -1,0 +1,9 @@
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\bin\Debug\netcoreapp3.1\ExemploNotifications.Domain.deps.json
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\bin\Debug\netcoreapp3.1\ExemploNotifications.Domain.dll
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\obj\Debug\netcoreapp3.1\ExemploNotifications.Domain.csprojAssemblyReference.cache
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\obj\Debug\netcoreapp3.1\ExemploNotifications.Domain.AssemblyInfoInputs.cache
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\obj\Debug\netcoreapp3.1\ExemploNotifications.Domain.AssemblyInfo.cs
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\bin\Debug\netcoreapp3.1\ExemploNotifications.Domain.pdb
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\obj\Debug\netcoreapp3.1\ExemploNotifications.Domain.csproj.CoreCompileInputs.cache
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\obj\Debug\netcoreapp3.1\ExemploNotifications.Domain.dll
+C:\_test\ExemploNotifications\ExemploNotifications.Domain\obj\Debug\netcoreapp3.1\ExemploNotifications.Domain.pdb
